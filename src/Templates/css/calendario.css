@@ -1,0 +1,63 @@
+.contenedor{
+    background-color: black; 
+    display: flex;
+  flex-direction: row;
+  padding: 10px;
+  margin: 20px;
+  padding: 150px;
+  
+  
+}
+
+
+
+.caja1{
+    background-color: blueviolet;
+    max-width: 120px;
+    width: 120px;
+    height: 120px;
+    border-radius: 15px;
+    margin:10px;
+   
+    
+}
+
+.caja2{
+    background-color: rgb(43, 226, 67);
+    max-width: 120px;
+    width: 120px;
+    height: 120px;
+   box-shadow: 5px 6px 3px white;
+   margin:10px;
+}
+
+.caja3{
+    background-color: rgb(226, 107, 43);
+    max-width: 120px;
+    width: 120px;
+    height: 120px;
+    margin:10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+}
+
+.caja4{
+    background-color: rgb(237, 12, 12);
+    max-width: 120px;
+    width: 120px;
+    height: 120px;
+    margin:10px;
+    border-radius: 150px;
+    box-shadow: 6px 2px 1px #ffffff;
+
+}
+
+.caja5{
+    background-color: rgb(8, 19, 236);
+    max-width: 120px;
+    width: 120px;
+    height: 120px;
+    margin:10px ;
+    
+}
